@@ -17,3 +17,6 @@ Use Case: Language modeling and text generation.
 # Usage
 Training: Run the provided scripts to train the models on your dataset.
 Prediction: Use the trained models to generate word embeddings or predict the next word.
+```bash
+jupyter notebook embeddings.ipynb
+```
